@@ -1,0 +1,21 @@
+[2022-11-09 at 13:40:09 EET] Logger start to work
+[2022-11-09 at 13:40:09 EET] [INFO] RowingBoat constructor called
+[2022-11-09 at 13:40:09 EET] [INFO] RowingBoat method PumpBoat called
+[2022-11-09 at 13:40:09 EET] [INFO] RowingBoat method PumpBoat called
+[2022-11-09 at 13:40:09 EET] [INFO] RowingBoat SitIn method called
+[2022-11-09 at 13:40:09 EET] [INFO] RowingBoat SitIn method called
+[2022-11-09 at 13:40:09 EET] [INFO] RowingBoat GetOut method called
+[2022-11-09 at 13:40:52 EET] Logger start to work
+[2022-11-09 at 13:40:52 EET] [INFO] RowingBoat constructor called
+[2022-11-09 at 13:40:52 EET] [INFO] RowingBoat method PumpBoat called
+[2022-11-09 at 13:40:52 EET] [INFO] RowingBoat method PumpBoat called
+[2022-11-09 at 13:40:52 EET] [INFO] RowingBoat SitIn method called
+[2022-11-09 at 13:40:52 EET] [INFO] RowingBoat SitIn method called
+[2022-11-09 at 13:40:52 EET] [INFO] RowingBoat GetOut method called
+[2022-11-09 at 13:44:32 EET] Logger start to work
+[2022-11-09 at 13:44:32 EET] [INFO] RowingBoat constructor called
+[2022-11-09 at 13:44:32 EET] [INFO] RowingBoat method PumpBoat called
+[2022-11-09 at 13:44:32 EET] [INFO] RowingBoat method PumpBoat called
+[2022-11-09 at 13:44:32 EET] [INFO] RowingBoat SitIn method called
+[2022-11-09 at 13:44:32 EET] [INFO] RowingBoat SitIn method called
+[2022-11-09 at 13:44:32 EET] [INFO] RowingBoat GetOut method called

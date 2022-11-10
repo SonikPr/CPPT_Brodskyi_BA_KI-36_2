@@ -1,0 +1,8 @@
+[2022-11-09 at 13:52:37 EET] Logger start to work
+[2022-11-09 at 13:52:37 EET] [INFO] RowingBoat constructor called
+[2022-11-09 at 13:52:37 EET] [INFO] Motor constructor called
+[2022-11-09 at 13:52:37 EET] [INFO] RowingBoat method PumpBoat called
+[2022-11-09 at 13:52:37 EET] [INFO] RowingBoat method PumpBoat called
+[2022-11-09 at 13:52:37 EET] [INFO] Motorboat GetIn method called
+[2022-11-09 at 13:52:37 EET] [INFO] Motorboat GetIn method called
+[2022-11-09 at 13:52:37 EET] [INFO] Motorboat GetOut method called
